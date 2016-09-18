@@ -53,6 +53,8 @@
 #ifndef TELoader_guids_h
 #define TELoader_guids_h
 
+#include <cstdint>
+
 typedef struct {
     uint32_t Data1;
     uint16_t Data2;

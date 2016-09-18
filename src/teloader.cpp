@@ -48,25 +48,10 @@
  *
  */
 
-#include <ida.hpp>
-#include <fpro.h>
-#include <idp.hpp>
-#include <loader.hpp>
-#include <name.hpp>
-#include <bytes.hpp>
-#include <offset.hpp>
-#include <segment.hpp>
-#include <srarea.hpp>
-#include <fixup.hpp>
-#include <entry.hpp>
-#include <auto.hpp>
-#include <diskio.hpp>
-#include <kernwin.hpp>
-
 #include "idaldr.h"
 #include "guids.h"
 
-#define VERSION "1.0"
+#define VERSION "1.1"
 
 #pragma pack(push, 1)
 
